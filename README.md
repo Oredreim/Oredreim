@@ -9,7 +9,7 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=Oredreim&show_icons=true&theme=dracula")>
 </div>
 
-<h2 align="left">Conocimientos</h2>
+<h2 align="left">Knowledge</h2>
 
 <table>
   <tbody>
