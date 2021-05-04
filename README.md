@@ -8,3 +8,39 @@
 <div>
     <img  src="https://github-readme-stats.vercel.app/api?username=Oredreim&show_icons=true&theme=dracula")>
 </div>
+
+<h2 align="left">Conocimientos</h2>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+         <span><b>Python 3</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+    </tr>
+      <td width="25%" align="center">
+        <span><b>PostgreSQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Debian</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>KaliLinux</span><br><br><br>
+        <img height="64px" src="https://www.logolynx.com/topic/kali+linux#&gid=1&pid=2">
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+</p>
