@@ -2,6 +2,7 @@
 
 - 🔭 Im working at [Deloitte](https://www2.deloitte.com/us/en.html).
 - 🌱 Studing at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+- Cybersecurity Analyst At Deloitte | Pentester | Ethical Hacker | Cybersecurity Specialist
 
 <h2 align="left">GitHub stadistics</h2>
 
