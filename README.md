@@ -23,8 +23,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>BASH</span><br><br><br>
+        <img height="64px" src="https://bashlogo.com/img/symbol/jpg/full_colored_light.jpg">
       </td>
     </tr>
       <td width="25%" align="center">
