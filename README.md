@@ -24,7 +24,7 @@
       </td>
       <td width="25%" align="center">
         <span>BASH</span><br><br><br>
-        <img height="64px" src="https://bashlogo.com/img/symbol/jpg/full_colored_light.jpg">
+        <img height="64px" src="https://bashlogo.com/img/logo/png/full_colored_dark.png">
       </td>
     </tr>
       <td width="25%" align="center">
