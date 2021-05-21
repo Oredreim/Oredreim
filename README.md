@@ -7,7 +7,7 @@
 Energetic, ambitious person who has developed a mature and responsible approach to ethical hacking andevery field related to Cybersecurity. I have Knowledge pen-testing, forensic and software development. Experience with tools like Python, BASH, SQL, SQL Injection, BurpSuite, GitHub, Parrot and Kali Linux.
 
 Repositories:
-- Complex Numbers: a simulation of the IBM Quantum Computer.
+- **Complex Numbers:** a simulation of the IBM Quantum Computer.
 <h2 align="left">GitHub stadistics</h2>
 
 <div>
