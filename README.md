@@ -37,8 +37,8 @@ Repositories:
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Debian</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+        <span>GNU</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
       </td>
       <td width="25%" align="center">
         <span>KaliLinux</span><br><br><br>
