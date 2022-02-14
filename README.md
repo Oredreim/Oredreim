@@ -33,7 +33,7 @@ Repositories:
       </td>
         <td width="25%" align="center">
         <span>BurpSuite</span><br><br><br>
-        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.BHMIn5pF5vRL-N-gQ_x0IAAAAA%26pid%3DApi&f=1">
+        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.tTJEY62wC-y0qpUC4nm7LwHaDt%26pid%3DApi&f=1">
       </td>
     </tr>
       <td width="25%" align="center">
