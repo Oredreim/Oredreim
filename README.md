@@ -44,6 +44,10 @@ Repositories:
         <span>KaliLinux</span><br><br><br>
         <img height="64px" src="https://www.logolynx.com/images/logolynx/6d/6d24c0630dafaaf66ea2b6c75e49ad68.png">
       </td>
+      <td width="25%" align="center">
+        <span>KaliLinux</span><br><br><br>
+        <img height="64px" src="https://www.logolynx.com/images/logolynx/6d/6d24c0630dafaaf66ea2b6c75e49ad68.png">
+      </td>
     </tr>
     
   </tbody>
