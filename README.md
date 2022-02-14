@@ -45,8 +45,8 @@ Repositories:
         <img height="64px" src="https://www.logolynx.com/images/logolynx/6d/6d24c0630dafaaf66ea2b6c75e49ad68.png">
       </td>
       <td width="25%" align="center">
-        <span>KaliLinux</span><br><br><br>
-        <img height="64px" src="https://www.logolynx.com/images/logolynx/6d/6d24c0630dafaaf66ea2b6c75e49ad68.png">
+        <span>GO</span><br><br><br>
+        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vmFSpk9xtpxAHkH7cmt-3QHaHa%26pid%3DApi&f=1">
       </td>
     </tr>
     
