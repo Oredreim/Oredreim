@@ -33,8 +33,8 @@ Repositories:
       </td>
     </tr>
       <td width="25%" align="center">
-        <span><b>PostgreSQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        <span><b>SQLI</b></span><br><br><br>
+        <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.usine-digitale.fr%2Fmediatheque%2F7%2F4%2F0%2F000357047_homePageUne%2Fsqlii.jpg&f=1&nofb=1">
       </td>
       <td width="25%" align="center">
         <span>GNU</span><br><br><br>
