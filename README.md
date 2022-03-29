@@ -1,6 +1,6 @@
 <h1 align="left">Oredreim (Cristian Piñeros) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-- 🔭 Im working at [ScotiaBank](https://www.scotiabank.com/global/en/global-site.html).
+- 🔭 Im working at [SECPRO](https://secpro.co/).
 - 🌱 Studing at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 - CSOC Analyst At ScotiaBank | Pentester | Ethical Hacker | Cybersecurity Specialist
 
