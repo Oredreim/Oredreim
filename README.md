@@ -29,7 +29,8 @@ Repositories:
   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png">
   <img  alt="Postman" width="100px" src="https://cdn.svgporn.com/logos/postman.svg">
-  <img  alt="Go" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
+  <img  alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
   <img  alt="ArchLinux" width="30px" src="https://cdn.svgporn.com/logos/archlinux.svg">
+  <img  alt="Bash" width="30px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
   
 </div>
