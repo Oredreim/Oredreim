@@ -1,28 +1,23 @@
-<h1 align="left">Oredreim (Cristian Piñeros) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="left">Cristian Camilo Pineros Arevalo (Oredreim) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-```
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-⠄⠄⠄⠄⠄⠄⠄⢀⣠⣶⣾⣿⣶⣦⣤⣀⠄⢀⣀⣤⣤⣤⣤⣄⠄⠄⠄⠄⠄⠄- 👀 I’m interested in Javascript, Python, React, Node,
-⠄⠄⠄⠄⠄⢀⣴⣿⣿⣿⡿⠿⠿⠿⠿⢿⣷⡹⣿⣿⣿⣿⣿⣿⣷⠄⠄⠄⠄⠄- 📚 I normally like to learn new things everyday 
-⠄⠄⠄⠄⠄⣾⣿⣿⣿⣯⣵⣾⣿⣿⡶⠦⠭⢁⠩⢭⣭⣵⣶⣶⡬⣄⣀⡀⠄⠄- 🎲 In my free time im learning frontend graphics designer
-⠄⠄⠄⡀⠘⠻⣿⣿⣿⣿⡿⠟⠩⠶⠚⠻⠟⠳⢶⣮⢫⣥⠶⠒⠒⠒⠒⠆⠐⠒  💞️ I’m looking to collaborate on all ...
-⠄⢠⣾⢇⣿⣿⣶⣦⢠⠰⡕⢤⠆⠄⠰⢠⢠⠄⠰⢠⠠⠄⡀⠄⢊⢯⠄⡅⠂⠄  📕 2021/2022 Goals: Contribute to open source projects, 
-⢠⣿⣿⣿⣿⣿⣿⣿⣏⠘⢼⠬⠆⠄⢘⠨⢐⠄⢘⠈⣼⡄⠄⠄⡢⡲⠄⠂⠠⠄  get confortable with react or nodejs or python, **get my first job**.
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣥⣀⡁⠄⠘⠘⠘⢀⣠⣾⣿⢿⣦⣁⠙⠃⠄⠃⠐⣀  Random Fact: I like tech, programming, crypto, gaming, blogging, ciclyng.
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-```
-- All my repos are under constant construction, they are also my notes, every time I learn something I apply it, so if you see comments or console.logs you already know why :D
-- 💼 You can see this [checkThisRepo](https://github.com/rroderickk/nodemachine) 
-#CHECKEA MI BLOG https://rroderickk.github.io/
-<!---
-rroderickk/rroderickk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+System Engineering [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-### 📫 Connect with me:
+- 🔭 Work [SECPRO](https://secpro.co/).
+- 🌱 Estudies [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
 Energetic, ambitious person who has developed a mature and responsible approach to ethical hacking and every field related to Cybersecurity. I have Knowledge pen-testing, forensic and software development. Experience with tools like Python, BASH, SQL, SQL Injection, BurpSuite, GitHub, Parrot and Kali Linux.
+
+### 📫 Connect with me:
+<div align="left"> 
+
+[<img align="left" alt="RodrigoMoreno | LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="insta | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt="gmail | Mailto" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
+
+</div>
+[instagram]: https://instagram.com/oredreim
+[linkedin]: https://linkedin.com/in/cristian-piñeros-arevalo-aka-oredreim-2229a7178
+[gmail]: mailto:ccpa1801@gmail.com
 
 Repositories:
 - **Complex Numbers:** a simulation of the IBM Quantum Computer.
