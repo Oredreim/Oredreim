@@ -15,9 +15,7 @@ Energetic, ambitious person who has developed a mature and responsible approach 
 [<img align="left" alt="gmail | Mailto" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 
 </div>
-[instagram]: https://instagram.com/oredreim
-[linkedin]: https://linkedin.com/in/cristian-piñeros-arevalo-aka-oredreim-2229a7178
-[gmail]: mailto:ccpa1801@gmail.com
+
 
 Repositories:
 - **Complex Numbers:** a simulation of the IBM Quantum Computer.
@@ -72,3 +70,6 @@ Repositories:
 </table>
 
 </p>
+[instagram]: https://instagram.com/oredreim
+[linkedin]: https://linkedin.com/in/cristian-piñeros-arevalo-aka-oredreim-2229a7178
+[gmail]: mailto:ccpa1801@gmail.com
