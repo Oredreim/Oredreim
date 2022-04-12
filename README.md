@@ -27,7 +27,7 @@ Repositories:
   <img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-  <img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
+  <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-  <img  alt="GO" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
+  <img  alt="Go" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
 </div>
