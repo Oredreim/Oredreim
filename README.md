@@ -20,7 +20,10 @@ Repositories:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oredreim&theme=tokyonight" />
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oredreim)](https://github.com/Oredreim/github-readme-stats)
+
+<h2 align="left">Most used</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oredreim)](https://github.com/Oredreim/github-readme-stats) 
 
 ### Languages and Tools:
 
