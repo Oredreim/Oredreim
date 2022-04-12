@@ -23,11 +23,11 @@ Repositories:
 ### Languages and Tools:
 
 <div align="left"> 
-  <img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-  <img alt="Docker" width="30px" src="https://cdn.svgporn.com/logos/docker.svg">
-  <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-  <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png">
-  <img  alt="Postman" width="30px" src="https://cdn.svgporn.com/logos/postman.svg">
-  <img  alt="Go" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
+  <img alt="Git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img alt="Python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img alt="Docker" width="50px" src="https://cdn.svgporn.com/logos/docker.svg">
+  <img alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+  <img alt="Java" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png">
+  <img  alt="Postman" width="50px" src="https://cdn.svgporn.com/logos/postman.svg">
+  <img  alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png">
 </div>
