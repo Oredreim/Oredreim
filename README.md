@@ -18,6 +18,7 @@ Repositories:
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oredreim&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oredreim&theme=tokyonight" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oredreim)](https://github.com/Oredreim/github-readme-stats) 
 </div>
 
 ### Languages and Tools:
