@@ -1,9 +1,6 @@
-<h1 align="left">Cristian Camilo Pineros Arevalo (Oredreim) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="left">Oredreim <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 System Engineering [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
-
-- 🔭 Work [SECPRO](https://secpro.co/).
-- 🌱 Estudies [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
 Energetic, ambitious person who has developed a mature and responsible approach to ethical hacking and every field related to Cybersecurity. I have Knowledge pen-testing, forensic and software development. Experience with tools like Python, BASH, SQL, SQL Injection, BurpSuite, GitHub, Parrot and Kali Linux.
 
